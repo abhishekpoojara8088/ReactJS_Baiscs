@@ -1,0 +1,7 @@
+1) To create react project: 
+	npx create-react-app [--Name Of Project Folder In Lowecase--]
+
+2)  Install basic packages.
+	npm install --save react-router-dom | Important react package for routing.
+
+3) Run the React Project: npm start
